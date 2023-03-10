@@ -38,8 +38,6 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- HTML
-- CSS
 - JavaScript
 - React
 - Redox
